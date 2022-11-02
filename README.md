@@ -11,7 +11,8 @@
     </a> 
 </p>
 
-- 🌱 I’m currently learning **Scala**
+- 🌱 I’m currently learning **RUST**
+- Current JAM: Der Meister by Rammstein
 
 <h2 align="left">Connect with me:</h2>
     <p align="left">
