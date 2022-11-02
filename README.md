@@ -21,7 +21,7 @@
         </a>
 </p>
 
-<h2 align="left">Leanguages and Tools:</h2>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
   <a href="https://developer.android.com" target="_blank">
     <img
