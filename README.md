@@ -1,4 +1,4 @@
-<h1 align="center">Hola, Soy Felipe A. Sánchez</h1>
+ter<h1 align="center">Hola, Soy Felipe A. Sánchez</h1>
 <h3 align="center">Desarrollador "Full Stack" de México.</h3>
 
 <p align="center"> 
@@ -277,16 +277,16 @@
 <h2 align="left">Estadísticas de mi perfil</h2>
 
 
-<p>
+<p align="center">
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=nineteenperiod&show_icons=true&locale=en&layout=compact"
     alt="nineteenperiod"
   />
 </p>
 
 
-<p>
+<p align="center">
   &nbsp;<img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=nineteenperiod&show_icons=true&locale=en"
@@ -295,7 +295,7 @@
 </p>
 
 
-<p>
+<p align="center">
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=nineteenperiod&"
