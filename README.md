@@ -1,5 +1,5 @@
 <h1 align="center">Hola, Soy Felipe A. Sánchez</h1>
-<h3 align="center">Full Stack developer from México.</h3>
+<h3 align="center">Desarrollador "Full Stack" de México.</h3>
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=nineteenperiod&label=Profile%20views&color=0e75b6&style=flat" alt="nineteenperiod" /> 
@@ -12,12 +12,12 @@
 </p>
 
 - 🌱 I’m currently learning **C**
-- Current JAM: None, actually 🐿️
+- Current JAM: Style by Taylor Swift 🕺
 
 <h2 align="left">Connect with me:</h2>
     <p align="left">
-        <a href="https://linkedin.com/in/felipesanchezdev" target="blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipesanchezdev" height="30" width="40" />
+        <a href="https://linkedin.com/in/asfelipe19" target="blank">
+            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asfelipe19" height="30" width="40" />
         </a>
 </p>
 
