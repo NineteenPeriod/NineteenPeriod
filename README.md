@@ -1,13 +1,13 @@
 <h1 align="center">Hola, Soy Felipe A. Sánchez</h1>
 <h3 align="center">Desarrollador "Full Stack" de México.</h3>
 
-<p align="left"> 
+<p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=nineteenperiod&label=Profile%20views&color=0e75b6&style=flat" alt="nineteenperiod" /> 
 </p>
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=nineteenperiod&theme=dracula" alt="nineteenperiod" />
+        <img src="https://github-profile-trophy.vercel.app/?username=nineteenperiod&theme=dracula&row=2&column=3" alt="nineteenperiod" />
     </a> 
 </p>
 
