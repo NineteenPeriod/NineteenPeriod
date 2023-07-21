@@ -21,7 +21,7 @@
         </a>
     </p>
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Lenguajes:</h2>
 <p align="left">
   <a href="https://developer.android.com" target="_blank">
     <img
@@ -39,22 +39,7 @@
       height="40"
     />
   </a>
-  <a href="https://babeljs.io/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
-      alt="babel"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.chartjs.org" target="_blank">
-    <img
-      src="https://www.chartjs.org/media/logo-title.svg"
-      alt="chartjs"
-      width="40"
-      height="40"
-    />
-  </a>
+
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -73,7 +58,7 @@
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
+      src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg"
       alt="django"
       width="40"
       height="40"
@@ -87,26 +72,11 @@
       height="40"
     />
   </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
+
   <a href="https://golang.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
       alt="go"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://gulpjs.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg"
-      alt="gulp"
       width="40"
       height="40"
     />
@@ -186,22 +156,6 @@
       height="40"
     />
   </a>
-  <a href="https://www.nginx.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-      alt="nginx"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nuxtjs.org/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
-      alt="nuxtjs"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.php.net" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
@@ -218,14 +172,7 @@
       height="40"
     />
   </a>
-  <a href="https://postman.com" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
+
   <a href="https://www.python.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -258,14 +205,7 @@
       height="40"
     />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
+
   <a href="https://unity.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
@@ -282,14 +222,6 @@
       height="40"
     />
   </a>
-  <a href="https://vuetifyjs.com/en/" target="_blank">
-    <img
-      src="https://bestofjs.org/logos/vuetify.svg"
-      alt="vuetify"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://webpack.js.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
@@ -300,8 +232,49 @@
   </a>
 </p>
 
+<h2 align="left">Herramientas:</h2>
+  <a href="https://git-scm.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://www.nginx.com" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+      alt="nginx"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://tailwindcss.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="tailwind"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://postman.com" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="postman"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://www.chartjs.org" target="_blank">
+    <img
+      src="https://www.chartjs.org/media/logo-title.svg"
+      alt="chartjs"
+      width="40"
+      height="40"
+    />
+  </a>
 
-<h2 align="left">Profile statistics</h2>
+<h2 align="left">Estadísticas de mi perfil</h2>
 
 
 <p>
