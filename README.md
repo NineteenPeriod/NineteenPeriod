@@ -1,4 +1,4 @@
-<h1 align="center">Hola, Soy Felipe A. Sánchez</h1>
+<h1 align="center">Hola, 😊</h1>
 <h3 align="center">Desarrollador "Full Stack" de México.</h3>
 
 <p align="center"> 
