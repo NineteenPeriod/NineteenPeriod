@@ -12,7 +12,7 @@
 </p>
 
 - 🌱 I’m currently learning **C**
-- Current JAM: Style by Taylor Swift 🕺
+- Current JAM: Edge by REZZ 🕺
 
 <h2 align="left">Conecta conmigo:</h2>
     <p align="left">
